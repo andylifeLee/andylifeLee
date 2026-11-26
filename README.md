@@ -4,7 +4,7 @@
 
 I build firmware and device software that has to work every time — secure IoT devices, payment terminals that pass EMV and PCI-PTS labs, and fare-collection systems that move millions of riders a day. 21 years at **Samsung SDS** and 3 at **Motorola Smartcard Solutions**, from board bring-up to on-site commissioning in Korea, China, India and Malaysia.
 
-🌐 **Portfolio:** [andylifelee.github.io](https://andylifelee.github.io) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/andy-lee-86806713a/) &nbsp;·&nbsp; ✉️ r50632@gmail.com
+🌐 **Portfolio:** [andylifelee.github.io](https://andylifelee.github.io) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/andy-lee-86806713a/) &nbsp;·&nbsp; ✉️ [r50632@gmail.com](mailto:r50632@gmail.com)
 
 ✅ Canadian Open Work Permit — no visa sponsorship required
 
