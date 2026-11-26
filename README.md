@@ -1,8 +1,8 @@
 ### Hi, I'm Andy (Kyung Jun) Lee 👋
 
-**Senior Embedded Firmware & Software Engineer** · 23+ years · Toronto, ON 🇨🇦
+**Senior Embedded Firmware & Software Engineer** · 20+ years · Toronto, ON 🇨🇦
 
-I build firmware and device software that has to work every time — secure IoT devices, payment terminals that pass EMV and PCI-PTS labs, and fare-collection systems that move millions of riders a day. 21 years at **Samsung SDS** and 3 at **Motorola Smartcard Solutions**, from board bring-up to on-site commissioning in Korea, China, India and Malaysia.
+I build firmware and device software that has to work every time — secure IoT devices, payment terminals that pass EMV and PCI-PTS labs, and fare-collection systems that move millions of riders a day. Long-time engineer and project leader at **Samsung SDS** and **Motorola Smartcard Solutions**, from board bring-up to on-site commissioning in Korea, China, India and Malaysia — and since 2024 a freelance embedded engineer, most recently building CAN communication software for a Hyundai Motor supplier.
 
 🌐 **Portfolio:** [andylifelee.github.io](https://andylifelee.github.io) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/andy-lee-86806713a/) &nbsp;·&nbsp; ✉️ [r50632@gmail.com](mailto:r50632@gmail.com)
 
@@ -16,6 +16,7 @@ I build firmware and device software that has to work every time — secure IoT 
 - **Payment terminals** — EMV L1/L2, PayPass, payWave, J/Smart, D-PAS, ExpressPay, PCI-PTS v3.0, NFC (ISO 14443 / 15693 / 18092)
 - **Automatic Fare Collection (AFC)** — security architecture, key management, key card issuing, smart card modules
 - **Embedded platforms** — hardware init, Linux kernel porting, FreeRTOS, Windows CE, bootloaders
+- **Automotive** — CAN communication software (freelance, 2026)
 - **OT / ICS security** — vulnerability analysis and security architecture for industrial sites (IEC 62443)
 
 #### 🛠️ Tech stack
@@ -39,6 +40,7 @@ I build firmware and device software that has to work every time — secure IoT 
 
 | Project | Role | Years |
 |---|---|---|
+| CAN communication software, AITECH (Hyundai Motor supplier) | Freelance | 2026 |
 | IoT device security & FOTA for KEPCO (~200k smart meters) | Sr. Software Engineer | 2021–2023 |
 | Samsung Electronics GCS facility control middleware | Project Leader | 2019–2020 |
 | Open-payment smart card reader (EMV / PCI-PTS / NFC) | Project Manager | 2012–2015 |
